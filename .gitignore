@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+node_modules
+tests/example.spec.js
+tests-examples
+.env

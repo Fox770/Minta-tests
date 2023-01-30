@@ -1,0 +1,21 @@
+{
+  "name": "minta-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fox770/Minta-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fox770/Minta-tests/issues"
+  },
+  "homepage": "https://github.com/Fox770/Minta-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
